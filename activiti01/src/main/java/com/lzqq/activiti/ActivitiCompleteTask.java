@@ -30,7 +30,7 @@ public class ActivitiCompleteTask {
         TaskService taskService = processEngine.getTaskService();
         List<Task> taskList = taskService.createTaskQuery()
                 .processDefinitionKey("myProcess_1")
-                .taskAssignee("wangwu")   // 如果只是有一个任务可以用  singleResult()  否则只能加.taskAssignee("lishi").list()
+                .taskAssignee("zhangsan")   // 如果只是有一个任务可以用  singleResult()  否则只能加.taskAssignee("lishi").list()
                 .list();
         //4.任务列表的展示
         for(Task task : taskList){

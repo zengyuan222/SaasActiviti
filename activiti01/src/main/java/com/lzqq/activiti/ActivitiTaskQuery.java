@@ -21,7 +21,7 @@ public class ActivitiTaskQuery {
         //3.根据流程定义的key,负责人assignee来实现当前用户的任务列表查询
         List<Task> taskList = taskService.createTaskQuery()
                 .processDefinitionKey("myProcess_1")
-                .taskAssignee("lishi")
+                .taskAssignee("zhangsan")
                 .list();
         //4.任务列表的展示
         for(Task task : taskList){
