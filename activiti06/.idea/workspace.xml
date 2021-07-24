@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c621b57-9f98-4404-9ce0-00f3c6c6eb1d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day03/activiti/BusinessKeyAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day03/activiti/DeleteProcessDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day03/activiti/HistoryQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day03/activiti/QueryBpmnFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day03/activiti/SuspendProcessInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day03/activiti/SuspendProcessInstance2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day04/AssigneeUEL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day04/Holiday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day04/VariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day04/VariableTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day04/VariableTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day05/ExclusiveGateWayTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day05/ExclusiveGateWayTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day05/GroupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day05/InclusiveGateWayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day05/ParallelGateWayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/resources/diagram/day05/examine.bpmn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/resources/diagram/day05/holiday4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/resources/diagram/day05/holiday5.bpmn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/resources/diagram/day05/holiday6.bpmn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/resources/diagram/holiday2.bpmn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/resources/diagram/holiday2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/resources/diagram/holiday3.bpmn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/resources/diagram/holiday4.bpmn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/resources/diagram/holiday4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../activiti01/src/main/resources/diagram/holiday5.bpmn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/activiti-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/lzqq/test/ActivitiSpringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activiti01/activiti01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../activiti01/activiti01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activiti01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../activiti01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/activiti/ActivitiCompleteTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/activiti/ActivitiCompleteTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/activiti/ActivitiDeployment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/activiti/ActivitiDeployment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day03/activiti/QueryProcessDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../activiti01/src/main/java/com/lzqq/day03/activiti/QueryProcessDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activiti01/src/main/resources/activiti.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../activiti01/src/main/resources/activiti.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activiti01/src/main/resources/diagram/holiday.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/../activiti01/src/main/resources/diagram/holiday.bpmn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activiti01/target/classes/activiti.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../activiti01/target/classes/activiti.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activiti01/target/classes/com/lzqq/activiti/ActivitiCompleteTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/../activiti01/target/classes/com/lzqq/activiti/ActivitiCompleteTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activiti01/target/classes/com/lzqq/activiti/ActivitiDeployment.class" beforeDir="false" afterPath="$PROJECT_DIR$/../activiti01/target/classes/com/lzqq/activiti/ActivitiDeployment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activiti01/target/classes/com/lzqq/day03/activiti/QueryProcessDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/../activiti01/target/classes/com/lzqq/day03/activiti/QueryProcessDefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../activiti01/target/classes/diagram/holiday.bpmn" beforeDir="false" afterPath="$PROJECT_DIR$/../activiti01/target/classes/diagram/holiday.bpmn" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/lzqq/test/ActivitiSpringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/activiti-spring.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/lzqq/test/ActivitiSpringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/activiti-spring.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\webServer\repo" />
+        <option name="mavenHome" value="D:/webServer/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\webServer\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="135" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="activiti06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activiti06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activiti06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Saas111\Activiti\activiti06\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ActivitiSpringTest.testOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activiti06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzqq.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzqq.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lzqq.test.ActivitiSpringTest" />
+      <option name="METHOD_NAME" value="testOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ActivitiSpringTest.testOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c621b57-9f98-4404-9ce0-00f3c6c6eb1d" name="Default Changelist" comment="" />
+      <created>1626849506176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626849506176</updated>
+      <workItem from="1626849511638" duration="1948000" />
+      <workItem from="1626851502296" duration="439000" />
+      <workItem from="1626852652754" duration="600000" />
+      <workItem from="1626857012321" duration="1098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ActivitiSpringTest_testOne - 2021.07.21 at 15h 05m 27s.xml">
+      <configuration name="ActivitiSpringTest.testOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivitiSpringTest_testOne - 2021.07.21 at 15h 07m 52s.xml">
+      <configuration name="ActivitiSpringTest.testOne" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4085000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="BPMNPalette" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/activiti/activiti-engine/7.0.0.Beta1/activiti-engine-7.0.0.Beta1.jar!/org/activiti/engine/RepositoryService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="73" column="42" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/activiti-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/lzqq/test/ActivitiSpringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

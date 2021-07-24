@@ -30,6 +30,7 @@ public class QueryProcessDefinition {
             System.out.println("流程定义名称：" + processDefinition.getName());
             System.out.println("流程定义的Key：" + processDefinition.getKey());
             System.out.println("流程定义的版本号：" + processDefinition.getVersion());
+            System.out.println("流程部署的ID:" + processDefinition.getDeploymentId());
         }
 
     }

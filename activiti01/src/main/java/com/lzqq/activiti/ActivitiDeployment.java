@@ -22,8 +22,8 @@ public class ActivitiDeployment {
         RepositoryService repositoryService = processEngine.getRepositoryService();
         //3.进行部署
         Deployment deployment = repositoryService.createDeployment()
-                .addClasspathResource("diagram/holiday.bpmn")
-                .addClasspathResource("diagram/holiday.png")
+                .addClasspathResource("diagram/holiday2.bpmn")
+                .addClasspathResource("diagram/holiday2.png")
                 .name("请假申请单流程")
                 .deploy();
         //4.输出部署的一些信息

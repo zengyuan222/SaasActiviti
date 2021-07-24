@@ -1,0 +1,13 @@
+spring:
+  rsocket:
+    server:
+      port: 8080
+  datasource:
+    url: jdbc:oracle:thin:@192.168.93.111:1521:orcl
+    username: scott
+    password: 123456
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+  activiti:
+    database-schema-update: true
+    history-level: full
+    db-history-used: true
